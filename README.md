@@ -40,5 +40,3 @@ This dashboard is useful for:
 ## License
 This project is intended for **informational and analytical purposes**. Please ensure proper attribution when using the data or insights from this dashboard.
 
-## Contact
-For any inquiries or contributions, please reach out to the **project maintainers**.
